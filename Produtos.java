@@ -2,7 +2,6 @@ public class Produtos{
 private String nome;
 private String categoria;
 private double preco;
-private String jubleu;
 
 public Produtos(String nome, String categoria, double preco){
 this.nome = nome;
